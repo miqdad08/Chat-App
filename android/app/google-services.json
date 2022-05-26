@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "294181439008",
+    "project_id": "chat-app-5eb3d",
+    "storage_bucket": "chat-app-5eb3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294181439008:android:5088115660700bd2cc5e45",
+        "android_client_info": {
+          "package_name": "com.example.miqdad.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294181439008-lt72kt774ktcoris73muctgrtcma215u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNPGIt7libK34YcXlkxxxWAKr736U9uvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294181439008-lt72kt774ktcoris73muctgrtcma215u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
